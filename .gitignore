@@ -1,0 +1,6 @@
+/Url-Shortener/.env
+/Url-Shortener/docker-compose.yml
+/Url-Shortener/bin
+/Url-Shortener/Data
+/Url-Shortener/obj
+/Url-Shortener/.vscode

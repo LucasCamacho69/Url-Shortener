@@ -13,10 +13,9 @@ This project is a simple yet powerful URL shortening service created with .NET a
 
 ## Technology Stack
 
-- **Backend**: .NET 8 / ASP.NET Core
+- **Backend**: .NET 9 / ASP.NET Core
 - **Database**: PostgreSQL
 - **ORM**: Entity Framework Core
-- **API Documentation**: Swagger (OpenAPI)
 
 ## Getting Started
 
@@ -26,7 +25,7 @@ To get the project running on your local machine, please follow these steps.
 
 You will need to have the following software installed:
 
-- [.NET 8 SDK](https://dotnet.microsoft.com/)
+- [.NET 9 SDK](https://dotnet.microsoft.com/)
 - [PostgreSQL](https://www.postgresql.org/)
 
 ### Installation and Setup
@@ -65,12 +64,6 @@ You will need to have the following software installed:
    The API will now be available at:
 
    - http://localhost:5224
-   - https://localhost:7290
-
-5. **Access API Documentation**:  
-   Open your browser and go to [http://localhost:5224/swagger](http://localhost:5224/swagger) to use the Swagger UI.
-
----
 
 ## API Endpoints
 

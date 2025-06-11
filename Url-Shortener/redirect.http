@@ -1,0 +1,6 @@
+@redirect_HostAddress = http://localhost:5224
+
+GET {{redirect_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
